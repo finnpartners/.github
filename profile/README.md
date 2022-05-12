@@ -1,4 +1,4 @@
-<p align="center"><a href="https://minttwist.com" target="_blank"><img src="" width="400"></a></p>
+<p align="center"><a href="https://minttwist.com" target="_blank"><img src="https://minttwiststg.wpengine.com/wp-content/themes/minttwist.com/app/assets/images/finn-logo-b.svg" width="400"></a></p>
 
 ## About Minttwist
 
