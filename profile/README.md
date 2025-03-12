@@ -1,9 +1,1 @@
-<p align="center"><a href="https://minttwist.com" target="_blank"><img src="https://github.com/Minttwist/.github/blob/main/docs/images/logo.svg?raw=true"></a></p>
-
-## About Minttwist
-
-[MintTwist](https://minttwist.com) was built by first-generation internet users, tinkerers and creatives. What was curiosity for the great digital unknown turned into passion to learn, build and bring others on the journey with us.
-
-MintTwist’s teams have since grown into a diverse group of digital experts, each with a passion and an expertise his or her own but all with a vision that puts our clients first by expertly crafting bolder, bigger and more memorable experiences.
-
-We believe thinking differently allows us to inspire those around us, with a no-bullshit approach to everything we do and say.
+[FINN Partners ](https://finnpartners.com) is one of the fastest-growing global, independent agencies, with a heart and a conscience. We serve clients through a powerful combination of hands-on partnership, highly specialised expertise, and a values-driven culture that champions integrity, collaboration, and innovation. More than an agency, we are a bold collective of communications advocates, stewarding brands, protecting reputations, influencing public policy, and leveraging data and analytics to shape the most important conversations of our day.
